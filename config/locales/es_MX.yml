@@ -259,11 +259,11 @@ es_MX:
     search:
       start: Iniciar busqueda...
   landing:
-    about: "Greenlight es una interface web para tu servidor %{href}de conferencias de fuentes libres. Puedes crear tus propias salas y ser anfitrión de sesiones o ingresar a las de otros utilizando un corto y conveniente enlace."
-    welcome: Bienvenido a <span class="green-grad">Greenlight</span>.
-    video: Ve nuestro tutorial de como utilizar Greenlight
-    upgrade: Muestrame como actualizar a versión 2.0
-    version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
+    about: "Escuela de negocios del ITESO %{href} Sitio para webconferencias, solicitar webconferencia en el departamento de TI."
+    welcome: Bienvenido a <span class="green-grad">Escuela de Negocios</span>.
+    #video: Ve nuestro tutorial de como utilizar Greenlight
+    #upgrade: Muestrame como actualizar a versión 2.0
+    #version: Hemos publicado una nueva version de Greenlight pero tu base de datos no es compatible.
   language_default: Por omisión (idioma del navegador)
   ldap_error: No se puede conectar al servidor LDAP. Compruebe la configuración de LDAP en el archivo "env" y asegúrate de que tu servidor está ejecutándose.
   login: Ingresar
